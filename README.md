@@ -9,7 +9,6 @@
    * Queue 
    * Stack 
 ### Algorithms
- * Recursion
  * Search
    * Linear Search
    * Binary Search
