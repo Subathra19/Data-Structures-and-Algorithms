@@ -8,6 +8,8 @@
    * LinkedList    
    * Queue 
    * Stack 
+ * Non-Linear 
+   * Tree 
 ### Algorithms
  * Search
    * Linear Search
