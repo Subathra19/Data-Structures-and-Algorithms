@@ -6,7 +6,7 @@ It can be applied whenever the following conditions are met:
  * A problem can be divided into sub problems
  * A recursive solution is applied
  * If the solution has repetitive subproblems
-If above conditions are met then we can memoize the problem by using a look up array
+* If above conditions are met then we can memoize the problem by using a look up array
 
 # Time Complexity
   * Fibonacci series with recursion: O(2^n)
