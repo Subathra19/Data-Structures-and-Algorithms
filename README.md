@@ -22,7 +22,7 @@
    * Quick Sort
  * Dynamic Programming
 
-###Exercises
+### Exercises
    * This folder contains various coding exercises on C that are frequently asked during interviews by companies like Google, Facebook, Microsoft, Cisco, Samsung and so on.
 
 ### References:
