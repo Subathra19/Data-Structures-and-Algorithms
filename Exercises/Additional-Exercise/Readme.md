@@ -1,15 +1,15 @@
 # 1. Egg Drop puzzle
-  * Consider n eggs and a building with k floors. Suppose that we wish to know which stories in a k-story building are safe to drop eggs from, and which will cause the eggs to break on landing. 
-  * We make a few assumptions:
-   ** An egg that survives a fall can be used again
-   A broken egg must be discarded.
-   The effect of a fall is the same for all eggs.
-   If an egg breaks when dropped, then it would break if dropped from a higher floor.
-   If an egg survives a fall then it would survive a shorter fall.
-  * If only one egg is available then we have to drop the egg from the first-floor window; if it survives, drop it from the second floor window. Continue upward until it breaks.
+  ** Consider n eggs and a building with k floors. Suppose that we wish to know which stories in a k-story building are safe to drop eggs from, and which will cause the eggs to break on landing. 
+  ** We make a few assumptions:
+    * An egg that survives a fall can be used again
+    * A broken egg must be discarded.
+    * The effect of a fall is the same for all eggs.
+    * If an egg breaks when dropped, then it would break if dropped from a higher floor.
+    * If an egg survives a fall then it would survive a shorter fall.
+  ** If only one egg is available then we have to drop the egg from the first-floor window; if it survives, drop it from the second floor window. Continue upward until it breaks.
  In the worst case, this method may require k droppings. 
-  * Suppose 2 eggs are available. What is the least number of egg-droppings that is guaranteed to work in all cases?
-  * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercise/eggdrop.c)
+    * Suppose 2 eggs are available. What is the least number of egg-droppings that is guaranteed to work in all cases?
+  ** [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercise/eggdrop.c)
 
 # 2. Two water jug problem
   * Consider an m litre jug and an n litre jug where 0 < m < n. Both the jugs are initially empty and there are no markings to measure smaller quantities.
