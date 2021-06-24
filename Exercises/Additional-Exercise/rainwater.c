@@ -26,7 +26,7 @@ int rainwaterTrapping(int a[],int n){
 int main()
 {
     int k;
-    int a[]={3,0,0,2,0,4};
+    int a[]={2,0,2,1,3};
     int n=sizeof(a)/sizeof(a[0]);
     int r=rainwaterTrapping(a,n);
     printf("Maximum water that can be accumulated is: %d",r);
