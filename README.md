@@ -3,26 +3,26 @@
 ## Contributions
 * This repository is open for contributions and learning 
 ### Data Strucutures
- * Linear 
+ * [Linear](https://github.com/Subathra19/Data-Structures-and-Algorithms/tree/main/Data-Structures-Linear) 
    * Array
    * LinkedList    
    * Queue 
    * Stack 
- * Hierarchical 
+ * [Hierarchical](https://github.com/Subathra19/Data-Structures-and-Algorithms/tree/main/Data-Structures-Hierarchical) 
    * Tree 
 ### Algorithms
- * Search
+ * [Search](https://github.com/Subathra19/Data-Structures-and-Algorithms/tree/main/Algorithms/Search)
    * Linear Search
    * Binary Search
- * Sort
+ * [Sort](https://github.com/Subathra19/Data-Structures-and-Algorithms/tree/main/Algorithms/Sort)
    * Selection Sort
    * Bubble Sort
    * Insertion Sort
    * Merge Sort
    * Quick Sort
- * Dynamic Programming
+ * [Dynamic Programming](https://github.com/Subathra19/Data-Structures-and-Algorithms/tree/main/Algorithms/Dynamic-Programming)
 
-### Exercises
+### [Exercises](https://github.com/Subathra19/Data-Structures-and-Algorithms/tree/main/Exercises)
    * This folder contains various coding exercises on C that are frequently asked during interviews by companies like Google, Facebook, Microsoft, Cisco, Samsung and so on.
 
 ### References:
