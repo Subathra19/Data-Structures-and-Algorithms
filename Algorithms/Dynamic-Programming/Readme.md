@@ -9,5 +9,5 @@ It can be applied whenever the following conditions are met:
 * If above conditions are met then we can memoize the problem by using a look up array
 
 # Time Complexity
-  * Fibonacci series with recursion: O(2^n)
-  * Fibonacci series after memoization: O(n)
+  * [Fibonacci series with recursion](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Algorithms/Dynamic-Programming/fibrecusion.c): O(2^n)
+  * [Fibonacci series after memoization](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Algorithms/Dynamic-Programming/fibmemoization.c): O(n)
