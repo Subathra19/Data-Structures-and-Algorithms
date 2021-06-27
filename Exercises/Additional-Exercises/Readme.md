@@ -5,7 +5,7 @@
 * Check the binary number is divisible by 3 or not
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise2.c)
 ## Exercise 3 
-* Check the binary number is divisible by 3 or not
+* Find prime numbers in a range
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise3.c)
 ## Exercise 4
 * Copy set bits in a range (i.e.) consider two numbers x and y and for a given range (l,r) set bits of x is bits of y are set in that range.
