@@ -24,7 +24,7 @@
  * Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
  * Ex: For an array, a[]={2,0,2,1,3}. The total trapped water will be 3 units 
 <p align="center">
-  <img width="460" height="500" src="https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/images/rainwater.PNG">
+  <img width="460" height="400" src="https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/images/rainwater.PNG">
 </p>
  
  * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercise/rainwater.c)
