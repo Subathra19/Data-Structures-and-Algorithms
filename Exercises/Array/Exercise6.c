@@ -9,7 +9,7 @@ int isPerfectSq(int n){
         return 0;
     }
 }
-int chckFib(int n){
+int checkFib(int n){
     int x=(5*n*n)+4;
     int y=(5*n*n)-4;
     if(isPerfectSq(x)||isPerfectSq(y)){
@@ -19,7 +19,7 @@ int chckFib(int n){
 }
 void subsetFib(int a[],int n){
     for(int i=0;i<n;i++){
-        if(chckFib(a[i])){
+        if(checkFib(a[i])){
             printf("%d\t",a[i]);
         }
     }
