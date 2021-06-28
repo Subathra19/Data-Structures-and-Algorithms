@@ -1,4 +1,4 @@
-//Find missing number in array
+//Find missing number in an array
 #include<stdio.h>
 int missing(int a[],int n){
     int x=0;
