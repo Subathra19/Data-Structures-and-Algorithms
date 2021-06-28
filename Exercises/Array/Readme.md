@@ -16,3 +16,9 @@
 ## Exercise 6
 * Largest subset from an array whose all elements are Fibonacci numbers
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise6.c)
+## Exercise 7
+* Find missing number in an array of size n-1 containing series of numbers from 1 to n
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise7.c)
+## Exercise 8
+* Find two missing numbers in an array of size n-1 containing series of numbers from 1 to n
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise8.c)
