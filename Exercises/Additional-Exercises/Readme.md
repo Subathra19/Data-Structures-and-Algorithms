@@ -16,3 +16,6 @@
 ## Exercise 6
 * Check if a number is bleak. a.	A number (n) is called bleak if it cannot be represented as the sum of a positive number(x) and set bit count in x where x>=0
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise6.c)
+## Exercise 7
+* Check if a number is the power of another number
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise7.c)
