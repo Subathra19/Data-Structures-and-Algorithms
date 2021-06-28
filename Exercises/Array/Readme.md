@@ -22,3 +22,6 @@
 ## Exercise 8
 * Find two missing numbers in an array of size n-1 containing series of numbers from 1 to n
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise8.c)
+## Exercise 9
+* Rotate the array elements by k times
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise9.c)
