@@ -25,3 +25,8 @@
 ## Exercise 9
 * Rotate the array elements by k times
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise9.c)
+## Exercise 10
+* For an array a[], find the maximum j – i such that a[j] > a[i]
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise10.c)
+## Exercise 11
+* Find the maxference between two elements of an array such that larger element appears after smaller element
