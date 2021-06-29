@@ -46,3 +46,15 @@
 ## Exercise 16
 * GCD of an array
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise16.c)
+## Exercise 17
+* Find majority element in an array a[] of size n (i.e.) the element that appears more than n/2 times
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise17.c)
+## Exercise 18
+* Find leaders in an array. An element is said to be a leader if it is greater than all the elements to its right side. And the rightmost element is always a leader.
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise18.c)
+## Exercise 19
+* For an array, find the elements before which all are smaller than it and above which all are greater
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise19.c)
+## Exercise 20
+* Find the product array for a given array, a[]. The element,p[i] of product array is the product of all elements of a[] except a[i]
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise20.c)
