@@ -34,3 +34,15 @@
 ## Exercise 12
 * Find triplets in an array with zero sum
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise12.c)
+## Exercise 13
+* Find subset of elements of an array whose sum adds up to a given number
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise13.c)
+## Exercise 14
+* Find pythagorean triplets in an array
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise14.c)
+## Exercise 15
+* Find second largest number in array
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise15.c)
+## Exercise 16
+* GCD of an array
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise16.c)
