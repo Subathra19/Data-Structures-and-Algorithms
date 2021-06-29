@@ -29,4 +29,8 @@
 * For an array a[], find the maximum j – i such that a[j] > a[i]
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise10.c)
 ## Exercise 11
-* Find the maxference between two elements of an array such that larger element appears after smaller element
+* Find the maximum difference between two elements of an array such that larger element appears after smaller element
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise11.c)
+## Exercise 12
+* Find triplets in an array with zero sum
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise12.c)
