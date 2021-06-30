@@ -34,3 +34,6 @@
 ## Exercise 12
 * Find the number of trailing zeros in factorial of a number
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise12.c)
+## Exercise 13
+* Find N<sup>th</sup> root of a number
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise13.c)
