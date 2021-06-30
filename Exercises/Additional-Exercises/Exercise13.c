@@ -21,13 +21,13 @@ double root(int m,int n){
     prev=curr;
   }
   return curr;
-  
+} 
 int main(){
   int m,n;
   printf("Enter the number:");
   scanf("%d",&m);
   printf("\n Enter N value:");
   scanf("%d",&n);
-  printf("\n Nth root of %d is: %lf",root(m,n));
+  printf("\n Nth root of %d is: %lf",m,root(m,n));
   return 0;
 }
