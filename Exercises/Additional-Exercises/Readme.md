@@ -19,3 +19,9 @@
 ## Exercise 7
 * Check if a number is the power of another number
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise7.c)
+## Exercise 8
+* Check if a number is the power of 2
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise8.c)
+## Exercise 9
+* Find the largest prime factor of a number
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise9.c)
