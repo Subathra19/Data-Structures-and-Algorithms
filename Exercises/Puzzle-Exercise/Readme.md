@@ -33,4 +33,11 @@
 * For a given set of n nuts and n bolts. Find the match efficiently.
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/nutbolts.c)
 
+## 6. Stock-span problem
+* The span of the stock’s price on a given day is defined as the maximum number of consecutive days just before the given day, for which the price of the stock on the current day is less than or equal to its price on the given day.
+<p align="center">
+  <img width="460" height="400" src="https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/images/stock.PNG">
+</p>
+
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/stockspan.c)
 
