@@ -10,7 +10,7 @@ double root(int m,int n){
   double curr;
   //Intialize the difference as INT_MAX
   double d=INT_MAX;
-  //Initialize a smaller variable for more accuracy
+  //Initialize a smaller eps for more accuracy
   double e= 1e-3;
   
   //loop till the desired accuracy is reached
