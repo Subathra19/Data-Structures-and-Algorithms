@@ -58,3 +58,9 @@
 ## Exercise 20
 * Find the product array for a given array, a[]. The element,p[i] of product array is the product of all elements of a[] except a[i]
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise20.c)
+## Exercise 21
+* Minimum number of coins that make a given value
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise21.c)
+## Exercise 22
+* Coin change : For a given amount(x) and array of coins,a[], determine how many ways change can be made for amount. There is a limitless supply of each coin type.
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise22.c)
