@@ -64,3 +64,10 @@
 ## Exercise 22
 * Coin change : For a given amount(x) and array of coins,a[], determine how many ways change can be made for amount. There is a limitless supply of each coin type.
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise22.c)
+## Exercise 23
+* Find the smallest positive number in an array
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise23.c)
+## Exercise 24
+* Kadane’s algorithm
+* It is used to find the contiguous sub-array with maximum sum for an array of N integers.
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise24.c)
