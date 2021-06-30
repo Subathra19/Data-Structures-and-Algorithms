@@ -31,3 +31,6 @@
 ## Exercise 11
 * Find the largest palindrome number which is the product of two n-digit numbers
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise11.c)
+## Exercise 12
+* Find the number of trailing zeros in factorial of a number
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise12.c)
