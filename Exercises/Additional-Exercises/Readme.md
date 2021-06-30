@@ -25,3 +25,9 @@
 ## Exercise 9
 * Find the largest prime factor of a number
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise9.c)
+## Exercise 10
+* Find the greatest common divisor (GCD) and least common multiple (LCM) of two numbers
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise10.c)
+## Exercise 11
+* Find the largest palindrome number which is the product of two n-digit numbers
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise11.c)
