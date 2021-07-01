@@ -16,4 +16,3 @@ int main()
     printf("Number of trailing zeros in the factorial of number %d is: %d",n,res);
 	return 0;
 }
-
