@@ -37,3 +37,10 @@
 ## Exercise 13
 * Find N<sup>th</sup> root of a number
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise13.c)
+## Exercise 14
+* Reverse bits of a given number
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise14.c)
+## Exercise 15
+* Count number of squares in a rectangle 
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise15.c)
+
