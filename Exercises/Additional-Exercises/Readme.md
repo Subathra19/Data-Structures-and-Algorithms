@@ -1,3 +1,4 @@
+# Numeric Exercises
 ## Exercise 1 
 * Count set bits in an integer (i.e.) Count the number of 1s in the binary representation of an integer.
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise1.c)
@@ -40,9 +41,13 @@
 ## Exercise 14
 * Reverse bits of a given number
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise14.c)
+# Matrix Exercises
+## Exercise 1
+<!--
 ## Exercise 15
 * Count number of squares in a rectangle 
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise15.c)
 ## Exercise 16
 * Find if two rectangles overlap
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise16.c)
+-->
