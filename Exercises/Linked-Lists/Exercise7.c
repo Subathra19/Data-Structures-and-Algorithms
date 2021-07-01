@@ -13,7 +13,6 @@ struct node* newNode(int x){
 }
 void insert(struct node*head,int x){
     struct  node*last=head;
-    struct node* newnode=(struct node*)malloc(sizeof(struct node));
     if(last==NULL){
         last->data=x;
         last->next=NULL;
@@ -21,9 +20,7 @@ void insert(struct node*head,int x){
     while(last->next!=NULL){
         last=last->next;
     }
-    last->next=newnode;
-    newnode->data=x;
-    newnode->next=NULL;
+    last->next=newNode(x);
 }
 void printList(struct node* head){
     while(head!=NULL){
