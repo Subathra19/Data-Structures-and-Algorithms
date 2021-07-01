@@ -49,4 +49,6 @@
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/building.c)
 
 ## 9. Minimum number of platforms required for a railway station
+* Given the arrival and departure times of all trains that reach a railway station.
+* Find the minimum number of platforms required for the railway station so that no train waits.
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/platform.c)
