@@ -80,4 +80,10 @@
 ## Exercise 27
 * Convert Decimal number to roman numeral
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise27.c)
-
+## Exercise 28
+* Sort an array of 0s, 1s and 2s
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise28.c)
+## Exercise 29
+* Count inversions in an array (i.e.) how close the array is from being sorted.
+* If array is already sorted then inversion count is 0. If array is sorted in reverse order that inversion count is the maximum.
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise29.c)
