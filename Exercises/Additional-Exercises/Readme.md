@@ -51,6 +51,10 @@
 ## Exercise 3
 * Boolean matrix
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise3.c)
+## Exercise 4
+* Count all possible paths from top left to right bottom for a (m,n) matrix
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise4.c)
+
 <!--
 ## Exercise 15
 * Count number of squares in a rectangle 
