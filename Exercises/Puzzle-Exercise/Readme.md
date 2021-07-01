@@ -41,3 +41,6 @@
 
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/stockspan.c)
 
+## 0-1 Knapsack problem
+* Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. 
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/knapsack.c)
