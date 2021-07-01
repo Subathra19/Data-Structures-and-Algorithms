@@ -20,4 +20,3 @@ int main(){
     copySetBit(x,y,l,r);
     return 0;
 }
-c
