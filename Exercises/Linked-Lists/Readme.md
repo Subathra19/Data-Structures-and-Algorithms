@@ -20,27 +20,23 @@
 * Print nth node from end of linked list
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Exercise7.c)
 ## Exercise 8:
-* lete every kth node from list
+* Delete every kth node from list
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Exercise8.c)
-
-Merge Sort for Linked List
-
-## Exercise 6: 
+## Exercise 9:
+* Merge Sort for Linked List
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Exercise9.c)
+## Exercise 10: 
 * Remove duplicate nodes from an unsorted linked list
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Exercise6.c)
-## Exercise 7:
-* Remove duplicates from sorted linked list
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Exercise7.c)
-
-
-
-Find the length of loop in linked list
-Detect and remove loop in linked list
-
-Split circular list into two halves
-Given only a pointer/reference to a node to be deleted in a singly linked list, how do you delete it?
-
-
-
-
-
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Exercise10.c)
+## Exercise 11:
+* Find the length of loop in linked list
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Exercise11.c)
+## Exercise 12:
+* Detect and remove loop in linked list
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Exercise12.c)
+## Exercise 13:
+* Split circular list into two halves
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Exercise13.c)
+## Exercise 14:
+* Given only a pointer/reference to a node to be deleted in a singly linked list, how do you delete it?
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Exercise14.c)
