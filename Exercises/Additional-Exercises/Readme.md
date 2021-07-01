@@ -41,6 +41,10 @@
 ## Exercise 14
 * Reverse bits of a given number
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Numeric-Exercises/Exercise14.c)
+## Exercise 15
+*  Count number of bits to be flipped to convert A to B
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Numeric-Exercises/Exercise15.c)
+
 # Matrix Exercises
 ## Exercise 1
 * Transpose of matrix
