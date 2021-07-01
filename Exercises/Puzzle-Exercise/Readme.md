@@ -44,3 +44,6 @@
 ## 7. 0-1 Knapsack problem
 * Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. 
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/knapsack.c)
+
+## 8. Number of ways to construct a building for N section
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/building.c)
