@@ -102,3 +102,9 @@
 ## Exercise 34
 * Convert array into zigzag fashion
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise34.c)
+## Exercise 35
+* Find median of an array
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise35.c)
+## Exercise 36
+* Find median of two sorted arrays
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise36.c)
