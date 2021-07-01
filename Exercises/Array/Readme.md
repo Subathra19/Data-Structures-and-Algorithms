@@ -93,6 +93,9 @@
 ## Exercise 31
 * Find the missing and repeating number in array of integers
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise31.c)
-* ## Exercise 32
+## Exercise 32
 * Find the K<sup>th</sup> smallest element in an unsorted array
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise32.c)
+## Exercise 33
+* Surpasser count
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise33.c)
