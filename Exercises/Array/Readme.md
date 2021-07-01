@@ -108,3 +108,6 @@
 ## Exercise 36
 * Find median of two sorted arrays
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise36.c)
+## Exercise 37
+* Maximum sum such that no two elements are adjacent in an array
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise37.c)
