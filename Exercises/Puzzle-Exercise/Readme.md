@@ -47,3 +47,6 @@
 
 ## 8. Number of ways to construct a building for N section
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/building.c)
+
+## 9. Minimum number of platforms required for a railway station
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/platform.c)
