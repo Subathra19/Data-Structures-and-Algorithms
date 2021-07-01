@@ -43,4 +43,6 @@
 ## Exercise 15
 * Count number of squares in a rectangle 
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise15.c)
-
+## Exercise 16
+* Find if two rectangles overlap
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise16.c)
