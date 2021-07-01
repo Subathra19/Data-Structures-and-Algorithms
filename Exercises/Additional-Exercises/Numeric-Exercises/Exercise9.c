@@ -27,4 +27,3 @@ int main()
     printf("Largst prime factor of %d is: %d",n,largestFactors(n));
     return 0;
 }
-
