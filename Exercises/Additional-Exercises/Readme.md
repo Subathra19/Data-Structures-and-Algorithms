@@ -54,6 +54,12 @@
 ## Exercise 4
 * Count all possible paths from top left to right bottom for a (m,n) matrix
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise4.c)
+## Exercise 5
+* Find the row with maximum number of 1’s in a matrix
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise5.c)
+## Exercise 6
+* Largest sum of zigzag sequence in a matrix
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise6.c)
 
 <!--
 ## Exercise 15
