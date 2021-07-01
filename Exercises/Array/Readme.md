@@ -87,3 +87,12 @@
 * Count inversions in an array (i.e.) how close the array is from being sorted.
 * If array is already sorted then inversion count is 0. If array is sorted in reverse order that inversion count is the maximum.
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise29.c)
+## Exercise 30
+* Find the element that appears once in a sorted array
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise30.c)
+## Exercise 31
+* Find the missing and repeating number in array of integers
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise31.c)
+* ## Exercise 32
+* Find the K<sup>th</sup> smallest element in an unsorted array
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise32.c)
