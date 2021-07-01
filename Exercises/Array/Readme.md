@@ -99,3 +99,6 @@
 ## Exercise 33
 * Surpasser count
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise33.c)
+## Exercise 34
+* Convert array into zigzag fashion
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise34.c)
