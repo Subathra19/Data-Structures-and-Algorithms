@@ -43,6 +43,14 @@
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Numeric-Exercises/Exercise14.c)
 # Matrix Exercises
 ## Exercise 1
+* Transpose of matrix
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise1.c)
+## Exercise 2
+* Search an element in matrix
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise2.c)
+## Exercise 3
+* Boolean matrix
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise3.c)
 <!--
 ## Exercise 15
 * Count number of squares in a rectangle 
