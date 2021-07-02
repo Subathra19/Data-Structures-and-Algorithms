@@ -120,3 +120,11 @@
 ## Exercise 40
 * Find the first repeating element in an array of integers
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise40.c)
+## Exercise 41
+* Given an array of size n and a range [a, b]. Partition the array around the range such that array is divided into three parts.
+  * All elements smaller than a come first
+  * All elements in range a to b come next
+  * All elements greater than b appear in the end
+* The individual elements of three sets can appear in any order
+
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise41.c)
