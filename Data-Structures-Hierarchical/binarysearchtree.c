@@ -1,3 +1,4 @@
+// Check whether given tree is a BST or not
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
