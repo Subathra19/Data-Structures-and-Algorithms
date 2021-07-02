@@ -57,7 +57,7 @@
 * Convert a Binary Tree into its Mirror Tree
 * A mirror tree of a tree is where left node of the root of the tree is right node of the mirror tree and right node of the tree is left node of mirror tree and left and right subtrees of the root are also mirror trees.
 <p align="center">
-  <img width="360" height="300" src="https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/images/mirror_tree.PNG">
+  <img width="560" height="400" src="https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/images/mirror_tree.PNG">
 </p>
 
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise14.c)
@@ -70,7 +70,7 @@
 * Check if a given Binary Tree is SumTree.
 * A SumTree is a Binary Tree where the value of a node is equal to the sum of the nodes present in its left subtree and right subtree
 <p align="center">
-  <img width="560" height="400" src="https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/images/sum_tree.PNG">
+  <img width="360" height="300" src="https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/images/sum_tree.PNG">
 </p>
 
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise16.c)
