@@ -103,3 +103,7 @@
 ## Exercise23.c
 * Count the number of BST nodes in the given range
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise23.c)
+
+## Exercise24.c
+* Check if Two Trees are Identical
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise24.c)
