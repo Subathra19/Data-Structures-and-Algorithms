@@ -57,7 +57,7 @@
 * Convert a Binary Tree into its Mirror Tree
 * A mirror tree of a tree is where left node of the root of the tree is right node of the mirror tree and right node of the tree is left node of mirror tree and left and right subtrees of the root are also mirror trees.
 <p align="center">
-  <img width="560" height="400" src="https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/images/mirror_tree.PNG">
+  <img width="500" height="400" src="https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/images/mirror_tree.PNG">
 </p>
 
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise14.c)
