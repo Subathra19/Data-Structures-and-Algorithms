@@ -76,7 +76,8 @@
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise16.c)
 
 ## Exercise17.c
-* Balanced tree
+* Check if a given Binary Tree is Balanced tree
+* A tree is said to be height balanced if the difference between left sub tree and right sub tree is not greater than 1.A null tree is a height balanced tree
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise17.c)
 
 ## Exercise18.c
