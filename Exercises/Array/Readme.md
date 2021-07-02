@@ -111,3 +111,9 @@
 ## Exercise 37
 * Maximum sum such that no two elements are adjacent in an array
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise37.c)
+## Exercise 38
+* Find two elements in an array whose sum is close to zero
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise38.c)
+## Exercise 39
+* Count frequencies of all elements in the array in O(1) extra space and O(n) time
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise39.c)
