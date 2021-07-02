@@ -67,7 +67,12 @@
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise15.c)
 
 ## Exercise16.c
-* Sum tree
+* Check if a given Binary Tree is SumTree.
+* A SumTree is a Binary Tree where the value of a node is equal to the sum of the nodes present in its left subtree and right subtree
+<p align="center">
+  <img width="560" height="400" src="https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/images/sum_tree.PNG">
+</p>
+
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise16.c)
 
 ## Exercise17.c
