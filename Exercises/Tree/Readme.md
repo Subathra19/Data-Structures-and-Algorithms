@@ -3,7 +3,10 @@
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise1.c)
 
 ## Exercise 2:
-* Convert an array into a Binary Search Tree(BST)
+* Convert an array into a Binary Search Tree(BST). And 
+  * Print the Inorder traversal of BST
+  * Print the Preorder traversal of BST
+  * Print the Postorder traversal of BST 
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise2.c)
 
 ## Exercise3.c
