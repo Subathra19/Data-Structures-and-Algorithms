@@ -117,3 +117,6 @@
 ## Exercise 39
 * Count frequencies of all elements in the array in O(1) extra space and O(n) time
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise39.c)
+## Exercise 40
+* Find the first repeating element in an array of integers
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise40.c)
