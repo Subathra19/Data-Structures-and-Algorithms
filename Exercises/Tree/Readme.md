@@ -1,5 +1,5 @@
 ## Exercise1.c
-* Find the total number of possible binary search trees with n nodes
+* Find the total number of possible binary trees and binary search trees with n nodes
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Tree/Exercise1.c)
 
 ## Exercise 2:
