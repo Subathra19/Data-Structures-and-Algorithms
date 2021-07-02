@@ -64,7 +64,9 @@
 ## Exercise 6
 * Largest sum of zigzag sequence in a matrix
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise6.c)
-
+## Exercise 7
+* Count all possible paths from top left to bottom right in a matrix
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise7.c)
 <!--
 ## Exercise 15
 * Count number of squares in a rectangle 
