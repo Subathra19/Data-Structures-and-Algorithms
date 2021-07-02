@@ -8,5 +8,5 @@
 ## [deletenode.c](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Data-Structures-Hierarchical/deletenode.c)
 * This program is used to delete the given node in a binary search tree
 
-## [searchnode.c](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Data-Structures-Hierarchical/searchnode.c)
+## [search.c](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Data-Structures-Hierarchical/search.c)
 * This program is used to search an element in a Binary search tree
