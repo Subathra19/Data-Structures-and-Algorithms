@@ -27,6 +27,7 @@
 * Exercises on:
   * [Arrays](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Readme.md)
   * [Linked Lists](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Linked-Lists/Readme.md)
+  * [Stack](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Stack/Readme.md)
 * [Additional Exercises](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Readme.md)
 * [Puzzle-Exercises](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Puzzle-Exercise/Readme.md)     
 
