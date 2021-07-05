@@ -10,64 +10,64 @@
 
 ### Exercise 1:
 * Find Sub array with given sum
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise1.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise1.c)
 ### Exercise 2:
 * Check  if two arrays are equal
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise2.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise2.c)
 ### Exercise 3:
 * Sum of two numbers represented by two arrays
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise3.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise3.c)
 ### Exercise 4:
 * Find whether an array is subset of another array 
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise4.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise4.c)
 ### Exercise 5:
 * For an array a[] of size N and an integer K. Find the maximum for each and every contiguous subarray of size K.
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise5.c)	
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise5.c)	
 ### Exercise 6
 * Largest subset from an array whose all elements are Fibonacci numbers
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise6.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise6.c)
 ### Exercise 7
 * Find missing number in an array of size n-1 containing series of numbers from 1 to n
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise7.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise7.c)
 ### Exercise 8
 * Find two missing numbers in an array of size n-1 containing series of numbers from 1 to n
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise8.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise8.c)
 ### Exercise 9
 * Rotate the array elements by k times
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise9.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise9.c)
 ### Exercise 10
 * For an array a[], find the maximum j – i such that a[j] > a[i]
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise10.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise10.c)
 ### Exercise 11
 * Find the maximum difference between two elements of an array such that larger element appears after smaller element
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise11.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise11.c)
 ### Exercise 12
 * Find triplets in an array with zero sum
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise12.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise12.c)
 ### Exercise 13
 * Find subset of elements of an array whose sum adds up to a given number
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise13.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise13.c)
 ### Exercise 14
 * Find pythagorean triplets in an array
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise14.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise14.c)
 ### Exercise 15
 * Find second largest number in array
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise15.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise15.c)
 ### Exercise 16
 * GCD of an array
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise16.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise16.c)
 ### Exercise 17
 * Find majority element in an array a[] of size n (i.e.) the element that appears more than n/2 times
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise17.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise17.c)
 ### Exercise 18
 * Find leaders in an array. An element is said to be a leader if it is greater than all the elements to its right side. And the rightmost element is always a leader.
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise18.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise18.c)
 ### Exercise 19
 * For an array, find the elements before which all are smaller than it and above which all are greater
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise19.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise19.c)
 ### Exercise 20
 * Find the product array for a given array, a[]. The element,p[i] of product array is the product of all elements of a[] except a[i]
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise20.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise20.c)
 ### Exercise 21
 * Minimum number of coins that make a given value
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise21.c)
