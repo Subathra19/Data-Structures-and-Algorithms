@@ -141,4 +141,7 @@
 
 
 ## Array with String
+### Exercise 1:
+* Find Sub array with given sum
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise1.c)
 
