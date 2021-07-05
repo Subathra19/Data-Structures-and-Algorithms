@@ -70,74 +70,73 @@
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise20.c)
 ### Exercise 21
 * Minimum number of coins that make a given value
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise21.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise21.c)
 ### Exercise 22
 * Coin change : For a given amount(x) and array of coins,a[], determine how many ways change can be made for amount. There is a limitless supply of each coin type.
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise22.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise22.c)
 ### Exercise 23
 * Find the smallest positive number in an array
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise23.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise23.c)
 ### Exercise 24
 * Kadane’s algorithm
 * It is used to find the contiguous sub-array with maximum sum for an array of N integers.
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise24.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise24.c)
 ### Exercise 25
 * Count pairs with given sum in an array
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise25.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise25.c)
 ### Exercise 26
 * Count pairs in array whose sum is divisible by k
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise26.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise26.c)
 ### Exercise 27
 * Convert Decimal number to roman numeral
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise27.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise27.c)
 ### Exercise 28
 * Sort an array of 0s, 1s and 2s
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise28.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise28.c)
 ### Exercise 29
 * Count inversions in an array (i.e.) how close the array is from being sorted.
 * If array is already sorted then inversion count is 0. If array is sorted in reverse order that inversion count is the maximum.
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise29.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise29.c)
 ### Exercise 30
 * Find the element that appears once in a sorted array
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise30.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise30.c)
 ### Exercise 31
 * Find the missing and repeating number in array of integers
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise31.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise31.c)
 ### Exercise 32
 * Find the K<sup>th</sup> smallest element in an unsorted array
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise32.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise32.c)
 ### Exercise 33
 * Surpasser count
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise33.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise33.c)
 ### Exercise 34
 * Convert array into zigzag fashion
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise34.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise34.c)
 ### Exercise 35
 * Find median of an array
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise35.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise35.c)
 ### Exercise 36
 * Find median of two sorted arrays
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise36.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise36.c)
 ### Exercise 37
 * Maximum sum such that no two elements are adjacent in an array
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise37.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise37.c)
 ### Exercise 38
 * Find two elements in an array whose sum is close to zero
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise38.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise38.c)
 ### Exercise 39
 * Count frequencies of all elements in the array in O(1) extra space and O(n) time
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise39.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise39.c)
 ### Exercise 40
 * Find the first repeating element in an array of integers
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise40.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise40.c)
 ### Exercise 41
 * Given an array of size n and a range [a, b]. Partition the array around the range such that array is divided into three parts.
   * All elements smaller than a come first
   * All elements in range a to b come next
   * All elements greater than b appear in the end
 * The individual elements of three sets can appear in any order
-
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise41.c)
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise41.c)
 
 
 ## Array with String
