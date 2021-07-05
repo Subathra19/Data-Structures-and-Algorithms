@@ -137,31 +137,55 @@
   * All elements greater than b appear in the end
 * The individual elements of three sets can appear in any order
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise41.c)
+### Exercise 42
+* Find the longest common subsequence in an array
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise42.c)
+### Exercise 43
+* Find the longest increasing subsequence in an array
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise43.c)
+### Exercise 44
+* Count the number of binary strings without consecutive 1’s
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise44.c)
 
-43.	Count number of binary strings without consecutive 1’s
-12.	Longest Increasing Subsequence
-
-
-66.	Edit Distance
 
 ## Array with String
-
-Remove spaces from a given string
-Decimal number to roman numeral
-Pangram string
-Palindrome string
-K-Palindrome
-Reverse the string
-Length of longest prefix in a string which is also a suffix
-Find the character in first string that is present at minimum index in second string
-First non-repeating character of string
-Longest even length substring such that sum of first and second half is same
-Run length encoding
-
-
-
-
-### Exercise 1:
-* Find Sub array with given sum
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise1.c)
-
+### Exercise 1
+* Remove spaces from a given string
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise1.c)
+### Exercise 2
+* Reverse the string
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise2.c)
+### Exercise 3
+* Reverse the characters of each word
+* Reverse the words in a given string
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise3.c)
+### Exercise 4
+* Palindrome string: Check wthether a string is Palindrome 
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise4.c)
+### Exercise 5
+* K-Palindrome:  A k-palindrome string transforms into a palindrome on removing at most k characters from it.
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise5.c)
+## Exercise 6
+* Pangram string: A pangram is a sentence containing every letter in the English Alphabet.
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise6.c)
+## Exercise 7
+* Find the first non-repeating character in a string
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise7.c)
+## Exercise 8
+* Find the character in first string that is present at minimum index in second string
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise8.c)
+## Exercise 9
+* Find the length of longest prefix in a string which is also a suffix
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise9.c)
+## Exercise 10
+* Find the longest even length substring such that sum of first and second half is same
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise10.c)
+## Exercise 11
+* Transform string: Transform the characters in a string from lower case to upper case and vice versa
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise11.c)
+## Exercise 12
+* Run length encoding:
+* For a given input string. The output string will be:
+  * Character of input string followed by the count of subsequent occurrences of that character 
+  * Ex: Input string: aaabbcddd --> Output string: a3b2c1d3   
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise12.c)
