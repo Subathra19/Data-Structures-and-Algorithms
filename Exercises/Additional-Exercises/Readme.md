@@ -1,3 +1,10 @@
+<!-- MarkdownTOC -->
+
+1. [Numeric Exercises](#numeric-exercises)
+2. [Matrix Exercises](#matrix-exercises)
+
+<!-- /MarkdownTOC -->
+
 # Numeric Exercises
 ## Exercise 1 
 * Count set bits in an integer (i.e.) Count the number of 1s in the binary representation of an integer.
