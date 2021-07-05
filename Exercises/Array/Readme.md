@@ -138,8 +138,29 @@
 * The individual elements of three sets can appear in any order
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise41.c)
 
+43.	Count number of binary strings without consecutive 1’s
+12.	Longest Increasing Subsequence
+
+
+66.	Edit Distance
 
 ## Array with String
+
+Remove spaces from a given string
+Decimal number to roman numeral
+Pangram string
+Palindrome string
+K-Palindrome
+Reverse the string
+Length of longest prefix in a string which is also a suffix
+Find the character in first string that is present at minimum index in second string
+First non-repeating character of string
+Longest even length substring such that sum of first and second half is same
+Run length encoding
+
+
+
+
 ### Exercise 1:
 * Find Sub array with given sum
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Exercise1.c)
