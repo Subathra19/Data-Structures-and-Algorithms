@@ -55,7 +55,7 @@
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Numeric-Exercises/Exercise15.c)
 ### Exercise 16
 * Modular Exponentiation
-* For given numbers: x,y and m. Find (x <sup>y<sup>) %m
+* For given numbers: x,y and m. Find x<sup>y</sup>%m
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Numeric-Exercises/Exercise16.c)  
 
 
