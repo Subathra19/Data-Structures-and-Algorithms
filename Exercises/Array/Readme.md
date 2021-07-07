@@ -165,27 +165,30 @@
 ### Exercise 5
 * K-Palindrome:  A k-palindrome string transforms into a palindrome on removing at most k characters from it.
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise5.c)
-## Exercise 6
+### Exercise 6
 * Pangram string: A pangram is a sentence containing every letter in the English Alphabet.
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise6.c)
-## Exercise 7
+### Exercise 7
 * Find the first non-repeating character in a string
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise7.c)
-## Exercise 8
+### Exercise 8
 * Find the character in first string that is present at minimum index in second string
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise8.c)
-## Exercise 9
+### Exercise 9
 * Find the length of longest prefix in a string which is also a suffix
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise9.c)
-## Exercise 10
+### Exercise 10
 * Find the longest even length substring such that sum of first and second half is same
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise10.c)
-## Exercise 11
+### Exercise 11
 * Transform string: Transform the characters in a string from lower case to upper case and vice versa
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise11.c)
-## Exercise 12
+### Exercise 12
 * Run length encoding:
 * For a given input string. The output string will be:
   * Character of input string followed by the count of subsequent occurrences of that character 
   * Ex: Input string: aaabbcddd --> Output string: a3b2c1d3   
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise12.c)
+### Exercise 13
+* Edit distance: Find minimum number of edits to convert one string to other 
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/edit/main/Exercises/Array/Array-with-String/Exercise13.c)
