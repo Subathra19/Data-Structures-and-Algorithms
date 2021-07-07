@@ -4,7 +4,8 @@
 
 1. [Numeric Exercises](#numeric-exercises)
 2. [Matrix Exercises](#matrix-exercises)
-
+3. [Other Exercises](#other-exercises)
+ 
 <!-- /MarkdownTOC -->
 
 ## Numeric Exercises
@@ -57,8 +58,9 @@
 * Modular Exponentiation
 * For given numbers: x,y and m. Find (x<sup>y</sup>)%m
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Numeric-Exercises/Exercise16.c)  
-
-
+### Exercise 17
+* Converting Decimal Number lying between 1 to 3999 to Roman Numerals
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Numeric-Exercises/Exercise17.c)  
 
 ## Matrix Exercises
 ### Exercise 1
@@ -83,10 +85,15 @@
 * Count all possible paths from top left to bottom right in a matrix
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Matrix-Exercises/Exercise7.c)
 <!--
-## Exercise 15
-* Count number of squares in a rectangle 
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise15.c)
-## Exercise 16
-* Find if two rectangles overlap
-* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Exercise16.c)
+
 -->
+
+## Other Exercises
+### Exercise 11
+* Count number of squares in a rectangle 
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Other-Exercises/Exercise1.c)
+### Exercise 2
+* Find if two rectangles overlap
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Other-Exercises/Exercise2.c)
+### Exercise 3
+* 
