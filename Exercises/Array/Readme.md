@@ -146,10 +146,12 @@
 ### Exercise 44
 * Count the number of binary strings without consecutive 1’s
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise44.c)
-### Exercise 44
+### Exercise 45
 * Find the maximum dot product of two arrays
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise45.c)
-
+### Exercise 46
+* Find maximum number of guests in a party when arrival time and exit time of guest is provided
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise46.c)
 ## Array with String
 ### Exercise 1
 * Remove spaces from a given string
