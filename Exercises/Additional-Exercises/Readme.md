@@ -96,4 +96,5 @@
 * Find if two rectangles overlap
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Other-Exercises/Exercise2.c)
 ### Exercise 3
-* 
+* Excel Sheet: Print the column name for a given column number
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Additional-Exercises/Other-Exercises/Exercise3.c)
