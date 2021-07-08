@@ -146,7 +146,9 @@
 ### Exercise 44
 * Count the number of binary strings without consecutive 1’s
 * [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise44.c)
-
+### Exercise 44
+* Find the maximum dot product of two arrays
+* [Solution](https://github.com/Subathra19/Data-Structures-and-Algorithms/blob/main/Exercises/Array/Array-with-Numbers/Exercise45.c)
 
 ## Array with String
 ### Exercise 1
